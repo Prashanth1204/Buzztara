@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Buzztara/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/Buzztara/static/js/main.d4dbc664.chunk.js",
+    "main.js.map": "/Buzztara/static/js/main.d4dbc664.chunk.js.map",
+    "runtime-main.js": "/Buzztara/static/js/runtime-main.e77da313.js",
+    "runtime-main.js.map": "/Buzztara/static/js/runtime-main.e77da313.js.map",
+    "static/js/2.b44b239d.chunk.js": "/Buzztara/static/js/2.b44b239d.chunk.js",
+    "static/js/2.b44b239d.chunk.js.map": "/Buzztara/static/js/2.b44b239d.chunk.js.map",
+    "static/js/3.2663f244.chunk.js": "/Buzztara/static/js/3.2663f244.chunk.js",
+    "static/js/3.2663f244.chunk.js.map": "/Buzztara/static/js/3.2663f244.chunk.js.map",
+    "index.html": "/Buzztara/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/Buzztara/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.b44b239d.chunk.js.LICENSE.txt": "/Buzztara/static/js/2.b44b239d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Buzztara/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e77da313.js",
+    "static/js/2.b44b239d.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.d4dbc664.chunk.js"
+  ]
+}
