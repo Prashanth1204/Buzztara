@@ -5,7 +5,16 @@ import { makeStyles } from '@material-ui/core/styles';
 
 const useStyles = makeStyles({
     heading : {
-        maxWidth : 80,
+        minWidth : 80,
+        marginTop : "20px",
+        "@media (max-width:701px)":{
+            marginTop : "20px",
+            marginBottom : "40px",
+            marginLeft : "10px",
+        },
+        "@media (min-width:701px)":{
+            textAlign : "center",
+        }
     },
 })
 const Heading = ()=>{
@@ -15,6 +24,7 @@ const Heading = ()=>{
      <Typography
      variant="h3"
      className={classes.heading}
+     //align="center"
      >
      Create account
      </Typography>
