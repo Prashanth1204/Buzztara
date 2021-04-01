@@ -1,4 +1,4 @@
-import './App.css';
+
 import {Route,Switch} from "react-router-dom";
 import Main from "./components/Main";
 import Loggedin from "./components/Loggedin";
